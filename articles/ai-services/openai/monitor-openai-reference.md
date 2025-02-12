@@ -31,9 +31,8 @@ Here are the most important metrics we think you should monitor for Azure OpenAI
 - Prompt Token Cache Match Rate
 - Time to Response
 - Time Between Tokens
-
+- Tokens per second 
 - Time to Last Byte
-
 - Normalized Time to First Byte 
 
 You can also monitor Content Safety metrics that are used by other Azure AI services. 
